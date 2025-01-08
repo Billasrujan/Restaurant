@@ -1,0 +1,137 @@
+.navItem1{
+    color: black;
+    font-family: " Roboto";
+}
+.navItem2{
+    color: black;
+    font-family: " Roboto";
+
+}
+.navItem3{
+    color: black;
+    font-family: " Roboto";
+
+}
+.navItem4{
+    color: black;
+    font-family: " Roboto";
+
+}
+.navItem5{
+    color: black;
+    font-family: " Roboto"; 
+}
+.food-munch-img{
+    height: 70px;
+    width: 80px;
+}
+.banner-section-bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 80vh;
+}
+.banner-heading{
+    color: white;
+    font-family: " Roboto ";
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.banner-caption{
+    color:#f5f7fa;
+    font-family: " Roboto ";
+    font-size: 40px;
+    font-weight: bold;
+}
+.button-section{
+    background-color: #d0b200;
+    color: white;
+    height: 40px;
+    width: 125px;
+    border-radius: 9px;
+    border-width: 0px;
+    margin-right: 10px;
+}
+.button-order{
+    height:40px;
+    width: 128px;
+    background-color: transparent;
+    color: #d0b200;
+    border-width: 1px;
+    border-radius: 9px;
+    border-style: solid;
+}
+.wcu-section{
+    background-color: #f9fbfe;
+}
+.wcu-section-heading{
+    font-family: " Roboto ";
+    font-size: 29px;
+    font-weight: 680;
+    color: #183b56;
+}
+.wcu-section-paragraph{
+    font-family: "Roboto";
+    font-size: 17px;
+    color: #5a7184;
+}
+.wcu-card{
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 16px;
+    border-color: #e5eaf4;
+
+}
+.wcu-card-image{
+    height: 90px;
+    width: 85px;;
+}
+.wcu-card-head{
+    font-family:" Roboto" ;
+    font-size:" 22px" ;
+    font-weight: 500 ;
+    color:#323f4b;
+}
+.wcu-card-paragraph{
+    font-family: " Roboto ";
+    font-size: 16px;
+    color: #7b8794;
+}
+.offers{
+    color: #323f4b;
+    font-weight: 600;
+    font-style: italic;
+}
+.Explore-menu-section{
+    background-color: white;
+}
+.menu-section-heading{
+    font-family:  "Roboto";
+    font-weight: 600;
+    font-size: 29px;
+    color: #183b56;
+}
+.menu-item-image{
+    border-radius: 17px;
+    width: 290px;
+    height: 306px;
+
+}
+.menu-card-title{
+    color: #323f4b;
+    font-family: " Roboto";
+    font-weight: 500;
+    font-size: 19px;
+    margin-top: 25px;
+}
+.menu-link{
+    color: #d0b200;
+    font-family: " Roboto";
+    font-size: 15px;
+    font-weight: 500;
+}
+.menu-item-card{
+    border-radius: 16px;
+}
