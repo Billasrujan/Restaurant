@@ -135,3 +135,126 @@
 .menu-item-card{
     border-radius: 16px;
 }
+
+
+.health-food-section{
+    background-color:#f9fbfe;
+
+}
+.health-food-section-img{
+    width: 270px;
+
+}
+.health-food-section-heading{
+    color: #183b56;
+    font-family: " Roboto";
+    font-size: 29px;
+    font-weight: 690;
+}
+.health-food-section-description{
+   color: #5a7184;
+   font-family: "Roboto";
+   font-size: 16px;
+
+}
+.custom-button{
+    background-image:linear-gradient(#d0b200 ,#a58d00);
+    color: white;
+    border-radius: 8px;
+    border-width: 0;
+    height: 46px;
+    width: 129px;
+    margin-right: 10px;
+
+}
+.delivery-and-payment-section{
+    background-color: white;
+
+}
+.delivery-and-payment-section-img{
+    width: 270px;
+}
+
+.delivery-and-payment-section-heading{
+    color: #183b56;
+    font-family: " Roboto"; 
+    font-size: 27px;
+    font-weight: 690;
+
+}
+.delivery-and-payment-section-description{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.payment-card-img{
+    height: 50px;
+    width: 50px;
+    margin-right: 28px;
+}
+.thanking-customers-section {
+    background-image: radial-gradient(#fff8db,#fae38c);
+  }
+.thanking-customers-section-img{
+    width: 270px;
+}
+  .thanking-customers-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+   
+  }
+  .thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+  }
+  .follow-us-section{
+    background-color: white;
+  }
+  .follow-us-section-heading{
+    font-family: "Roboto";
+    font-weight: 690;
+    font-size: 28px;
+    color: #183b56;
+    text-align: center;
+    text-decoration:underline;
+  }
+  .footer-section-mail-id{
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: 19px;
+
+  }
+  .footer-section-address{
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+
+  }
+  .Thank-You{
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 22px;
+    color: #5a7184;  
+}
+.manchuriya{
+    object-fit: cover;
+}
+.follow-us-imag{
+    height: 3rem;
+    width: 3rem;
+
+}
+.gift-voucher-heading{
+    color:#d0b200;
+    font-weight: 800;
+
+}
